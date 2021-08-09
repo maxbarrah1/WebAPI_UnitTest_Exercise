@@ -1,0 +1,12 @@
+/Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.csproj.AssemblyReference.cache
+/Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.AssemblyInfoInputs.cache
+/Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.AssemblyInfo.cs
+/Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.csproj.CoreCompileInputs.cache
+/Users/tim/Desktop/repos/Cars/CarsLib/bin/Debug/net5.0/CarsLib.deps.json
+/Users/tim/Desktop/repos/Cars/CarsLib/bin/Debug/net5.0/CarsLib.dll
+/Users/tim/Desktop/repos/Cars/CarsLib/bin/Debug/net5.0/ref/CarsLib.dll
+/Users/tim/Desktop/repos/Cars/CarsLib/bin/Debug/net5.0/CarsLib.pdb
+/Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.dll
+/Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/ref/CarsLib.dll
+/Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.pdb
