@@ -10,3 +10,15 @@
 /Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.dll
 /Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/ref/CarsLib.dll
 /Users/tim/Desktop/repos/Cars/CarsLib/obj/Debug/net5.0/CarsLib.pdb
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\obj\Debug\net5.0\CarsLib.csprojAssemblyReference.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\obj\Debug\net5.0\CarsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\obj\Debug\net5.0\CarsLib.AssemblyInfoInputs.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\obj\Debug\net5.0\CarsLib.AssemblyInfo.cs
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\obj\Debug\net5.0\CarsLib.csproj.CoreCompileInputs.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\obj\Debug\net5.0\CarsLib.dll
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\obj\Debug\net5.0\ref\CarsLib.dll
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\obj\Debug\net5.0\CarsLib.pdb
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\bin\Debug\net5.0\CarsLib.deps.json
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\bin\Debug\net5.0\CarsLib.dll
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\bin\Debug\net5.0\ref\CarsLib.dll
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI_UnitTest_Exercise\Cars\CarsLib\bin\Debug\net5.0\CarsLib.pdb

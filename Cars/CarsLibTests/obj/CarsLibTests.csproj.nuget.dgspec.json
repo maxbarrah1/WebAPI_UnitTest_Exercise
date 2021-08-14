@@ -1,72 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tim/Desktop/repos/Cars/CarsLibTests/CarsLibTests.csproj": {}
+    "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLibTests\\CarsLibTests.csproj": {}
   },
   "projects": {
-    "/Users/tim/Desktop/repos/Cars/CarsLib/CarsLib.csproj": {
+    "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLibTests\\CarsLibTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tim/Desktop/repos/Cars/CarsLib/CarsLib.csproj",
-        "projectName": "CarsLib",
-        "projectPath": "/Users/tim/Desktop/repos/Cars/CarsLib/CarsLib.csproj",
-        "packagesPath": "/Users/tim/.nuget/packages/",
-        "outputPath": "/Users/tim/Desktop/repos/Cars/CarsLib/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/tim/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/tim/Desktop/repos/Cars/CarsLibTests/CarsLibTests.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/tim/Desktop/repos/Cars/CarsLibTests/CarsLibTests.csproj",
+        "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLibTests\\CarsLibTests.csproj",
         "projectName": "CarsLibTests",
-        "projectPath": "/Users/tim/Desktop/repos/Cars/CarsLibTests/CarsLibTests.csproj",
-        "packagesPath": "/Users/tim/.nuget/packages/",
-        "outputPath": "/Users/tim/Desktop/repos/Cars/CarsLibTests/obj/",
+        "projectPath": "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLibTests\\CarsLibTests.csproj",
+        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLibTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tim/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/tim/Desktop/repos/Cars/CarsLib/CarsLib.csproj": {
-                "projectPath": "/Users/tim/Desktop/repos/Cars/CarsLib/CarsLib.csproj"
+              "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLib\\CarsLib.csproj": {
+                "projectPath": "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLib\\CarsLib.csproj"
               }
             }
           }
@@ -130,7 +78,59 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLib\\CarsLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLib\\CarsLib.csproj",
+        "projectName": "CarsLib",
+        "projectPath": "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLib\\CarsLib.csproj",
+        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Max\\OneDrive\\Documents\\Github\\Intro-Programming\\WebAPI_UnitTest_Exercise\\Cars\\CarsLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
